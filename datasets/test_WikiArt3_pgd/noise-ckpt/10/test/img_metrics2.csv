@@ -1,0 +1,17 @@
+filename,ssim,psnr,linf
+expressionism_egon-schiele-the-green-stocking-1914.jpg,0.35550028535808265,15.485425474130086,223
+impressionism_algernon-talmage-boy-on-pony-unfinished.jpg,0.3864774737376467,18.747075834204182,186
+impressionism_edgar-degas-at-the-races-1877-0.jpg,0.21806263094240105,15.304919329769556,229
+neoclassicism_joseph-wright-romeo-and-juliet-the-tomb-scene-noise-again-then-i-ll-be-brief-1790.jpg,0.5624504448649809,17.825536824927802,231
+realism_boris-kustodiev-after-the-storm-1921.jpg,0.2626557703139062,14.244974103717574,244
+realism_edgar-degas-two-russian-dancers-1895.jpg,0.07532896843710253,7.97087814001611,255
+realism_honore-daumier-menelas-the-victor.jpg,0.17634623176631903,10.508719485804603,238
+realism_vasily-perov-christ-in-gethsemane-1878.jpg,0.3508561168949336,17.84567388801014,218
+realism_william-adolphe-bouguereau-small-marauding.jpg,0.2871734234573587,11.959324568168423,255
+romanticism_charles-m-russell-lewis-and-clark-reach-shoshone-camp-led-by-sacajawea-the-bird-woman-1918.jpg,0.2709683563541414,15.809632547628903,255
+romanticism_david-roberts-baalbek-general-view.jpg,0.3693481049071344,15.939698984035534,212
+romanticism_john-duncan-isolde-detail-1912.jpg,0.34154162742899247,18.33602698710119,167
+romanticism_john-hoppner-lady-elizabeth-howard-1798.jpg,0.3344139697545172,16.874857237113613,207
+romanticism_maurycy-gottlieb-jews-praying-in-the-synagogue-on-yom-kippur-1878.jpg,0.19007497968136386,12.43913446020116,255
+romanticism_orest-kiprensky-griffonnage-1814.jpg,0.3176800213645694,14.327883334570359,245
+surrealism_paul-nash-the-pond-at-souldern-1926.jpg,0.28965375644891816,14.998984601972765,233
