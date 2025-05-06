@@ -1,4 +1,4 @@
-# Image Watermarking with Revisited HiDDeN
+#  WM_encoder_decoder with Revisited HiDDeN
 
 [`Colab demo`](https://colab.research.google.com/github/facebookresearch/stable_signature/blob/master/hidden/notebooks/demo.ipynb)
 (for using the pre-trained networks for traditional image watermarking.)
